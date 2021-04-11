@@ -1,8 +1,11 @@
-#github-finder
+# github-finder
 
 This app uses the github API in searching for users on Github. It displays the users associated (username, mentions, comments, etc) with the search string and also drills further to show their profiles as well as their last 5 repos.
 
-Please note that most of the components are class components. This is intended. I have another branch called "usingFunctionalComponents" in which I have converted all the components to functional components.
+Please note that most of the components are class components. This is intended. I have two other branches called
+
+-   [usingFunctionalComponents](https://github.com/ayodele-olufemi/github-finder/tree/usingFunctionalComponents): Here, I have converted all the components to functional components.
+-   [usingContext](https://github.com/ayodele-olufemi/github-finder/tree/usingContext): Here, I have deconjested the `App.js` file by using the **useContext** hook in the respective components.
 
 # Available Scripts
 
